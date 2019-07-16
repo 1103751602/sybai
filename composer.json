@@ -1,0 +1,24 @@
+{
+    "name": "sybai/feed",
+    "description": "baidu feed api",
+    "require": {
+        "php": ">=7.0.0",
+		"guzzlehttp/guzzle": "~6.1"
+    },
+	"require-dev": {},
+	"autoload": {
+        "psr-4": {
+            "Sybai\\Feed\\": "./src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dgw",
+            "email": "1103751602@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
+
+
